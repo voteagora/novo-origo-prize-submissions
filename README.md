@@ -1,7 +1,5 @@
 # Novo Origo Prize — Submissions
 
-**Repository:** [voteagora/novo-origo-prize-submissions-1](https://github.com/voteagora/novo-origo-prize-submissions-1)
-
 Submissions are licensed under **CC BY-SA 4.0** as described in the [official contest rules](https://novo-origo.agora.xyz/rules).
 
 ## How submissions get here
